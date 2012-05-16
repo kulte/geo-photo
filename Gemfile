@@ -43,3 +43,5 @@ gem 'paperclip'
 gem 'aws-sdk'
 
 gem 'foreman'
+
+gem 'cocoapods'
